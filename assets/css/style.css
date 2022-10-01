@@ -55,6 +55,7 @@ html,body {
   font-size: 30px;
   color: red;
   box-shadow: 0px 0px 5px black;
+  padding:0;
   cursor: pointer;
 }
 
@@ -70,6 +71,7 @@ html,body {
   font-size: 30px;
   color: black;
   box-shadow: 0px 0px 5px black;
+  padding:0;
   cursor: pointer;
 }
 .button-reset:active{
@@ -84,6 +86,7 @@ html,body {
   font-size: 30px;
   color: green;
   box-shadow: 0px 0px 5px black;
+  padding:0;
   cursor: pointer;
 
 }
